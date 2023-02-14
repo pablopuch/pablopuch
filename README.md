@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Programmer and developer in Artificial Intelligence & Big Data</em></p>
+<!-- <p><em>Programmer and developer in Artificial Intelligence & Big Data</em></p> -->
 
 [![Linkedin: pablo-puch](https://img.shields.io/badge/-pablopuch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-puch/)](https://www.linkedin.com/in/pablo-puch/)
 [![GitHub pablopuch](https://img.shields.io/github/followers/pablopuch?label=follow&style=social)](https://github.com/pablopuch)
