@@ -7,28 +7,22 @@
 [![Linkedin: pablo-puch](https://img.shields.io/badge/-pablopuch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-puch/)](https://www.linkedin.com/in/pablo-puch/)
 [![GitHub pablopuch](https://img.shields.io/github/followers/pablopuch?label=follow&style=social)](https://github.com/pablopuch)
 
-
 ### A little more about me...  
+
+<p align="left">I am a passionate developer with experience in programming, artificial intelligence and big data. My goal is to turn ideas into real and beneficial projects that positively impact society. I have worked on innovative projects that have allowed me to appreciate the potential of technology to change the world. I strongly believe in ethics and responsibility in technology development and I am excited about the possibility of bringing my skills and knowledge to your team.</p>
+
+<br />
+<br />
+<br />
 
 ```javascript
 const pablo = {
   pronouns: "he" | "him",
-  code: [Python, Javascript, HTML, CSS, Java, PHP],
-  tools: [Flask, Colab, Laravel, Node, WordPress, Prestashop],
+  code: [Python, Javascript, HTML, CSS, Java, PHP, TypeScript],
+  tools: [Flask, Django, Colab, Laravel, Node, React, WordPress, Prestashop],
 }
 ```
-
 <!--
-<img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+
 -->
-
-<br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablopuch&layout=compact&theme=radical" alt="My Github Stats">
-</p>
-
-
-
-
-
-
