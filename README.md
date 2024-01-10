@@ -4,7 +4,7 @@
 
 <!-- <p><em>Programmer and developer in Artificial Intelligence & Big Data</em></p> -->
 
-[![Linkedin: pablo-puch](https://img.shields.io/badge/-pablopuch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-puch/)](https://www.linkedin.com/in/pablo-puch/)
+[![Linkedin: pablo-puch](https://img.shields.io/badge/-pablopuch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-puch/)](https://www.linkedin.com/in/pablopuch/)
 [![GitHub pablopuch](https://img.shields.io/github/followers/pablopuch?label=follow&style=social)](https://github.com/pablopuch)
 
 ### A little more about me...  
