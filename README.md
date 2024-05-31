@@ -18,7 +18,7 @@
 ```javascript
 const pablo = {
   pronouns: "he" | "him",
-  code: [Python, Javascript, HTML, CSS, Java, PHP, TypeScript],
+  code: [PHP, Python, Javascript, Java, HTML, CSS],
   tools: [Flask, Django, Colab, Laravel, Node, React, WordPress, Prestashop],
 }
 ```
