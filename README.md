@@ -19,7 +19,7 @@
 const pablo = {
   pronouns: "he" | "him",
   code: [PHP, Python, Javascript, Java, HTML, CSS],
-  tools: [Flask, Django, Colab, Laravel, Node, React, WordPress, Prestashop],
+  tools: [Flask, Colab, Laravel, Astro, React, WordPress, Prestashop],
 }
 ```
 <!--
