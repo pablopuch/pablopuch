@@ -26,5 +26,3 @@ const pablo = {
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?pablopuch=anuraghazra&show_icons=true&theme=transparent)
